@@ -1,1 +1,1 @@
-# ewmba_haas
+# Berkeley Haas EWMBA Program
